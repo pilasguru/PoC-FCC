@@ -1,4 +1,6 @@
-<img src="https://www.ucu.edu.uy/plantillas/images/logo_ucu.svg" alt="UCU" width="200"/>
+<div style="background-color: #143361; padding: 10px; text-align: center;">
+  <img src="https://www.ucu.edu.uy/plantillas/images/logo_ucu.svg" alt="UCU" width="200"/>
+</div>
 
 # Universidad Católica del Uruguay
 
@@ -7,7 +9,6 @@
 ### Fundamentos en Ciencias de la Computación
 
 <br/>
-![GitHub License](https://img.shields.io/github/license/ucudal/ANDIS_Conceptos)
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 <br/>
 

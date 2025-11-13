@@ -1,6 +1,6 @@
 # Fundamentos en Ciencias de la Computación
 
-Este curso ofrece una visión introductoria de las bases conceptuales, tecnológicas Ingeniería en Informática y la Ingeniería en Inteligencia Artificial y Ciencias de Datos. A través de una combinación de fundamentos históricos, técnicos y prácticos, el curso busca motivar y orientar al estudiante en su rol como futuro profesional, brindando herramientas básicas de trabajo, una alfabetización tecnológica sólida y un panorama de trayectorias posibles dentro del mundo de la computación. 
+Este curso ofrece una visión introductoria de las bases conceptuales, tecnológicas de la Ingeniería en Informática y de la Ingeniería en Inteligencia Artificial y Ciencias de Datos. A través de una combinación de fundamentos históricos, técnicos y prácticos, el curso busca motivar y orientar al estudiante en su rol como futuro profesional, brindando herramientas básicas de trabajo, una alfabetización tecnológica sólida y un panorama de trayectorias posibles dentro del mundo de la computación. 
 
 _This course offers an introductory overview of the conceptual, technological, and professional foundations of Computer Science Engineering and Artificial Intelligence and Data Science Engineering. Through a combination of historical, technical, and practical foundations, the course seeks to motivate and guide students in their role as future professionals, providing basic work tools, solid technological literacy, and an overview of possible career paths within the computing world._
 
@@ -13,7 +13,7 @@ _This course offers an introductory overview of the conceptual, technological, a
 5. [Alfabetización en Inteligencia Artificial](unidad/5/readme.md)
 6. [Construcción de Soluciones y Trayectorias Profesionales](unidad/6/readme.md)
 
-## Forma de aprovación
+## Forma de aprobación
 
 El curso está aprobado en primera instancia cuando el estudiante cumple con el 75% de asistencias y obtiene una calificación final de B, BMB, MB o STE como resultado del cumplimiento satisfactorio de las actividades sujetas a evaluación propuestas en el programa del curso. 
 

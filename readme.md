@@ -15,3 +15,6 @@ En este documento definimos y presentamos contenidos útiles para los cursos de 
 > **🚀 ¡Visita este documento on-line!**
 >
 > [Fundamentos en Ciencias de la Computación](https://pilasguru.github.io/PoC-FCC/)
+
+O continúa leyendo [el documento en este mismo repositorio GitHub](docs/index.md)
+

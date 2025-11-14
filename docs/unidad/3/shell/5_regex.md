@@ -1,3 +1,3 @@
-# Recursos y práctica guiada
+# Expresiones Regulares
 
 [🔙 Inicio de la unidad](../readme.md)

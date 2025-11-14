@@ -33,3 +33,4 @@ Seguir aprendiendo LaTeX.
 *  LaTeX Wikibook – [https://en.wikibooks.org/wiki/LaTeX](https://en.wikibooks.org/wiki/LaTeX)
 *  Edición de textos científicos con LaTeX (Walter Mora F., Alexander Borbón A.) [Libro PDF](https://tecdigital.tec.ac.cr/servicios/revistamatematica/Libros/LaTeX/MoraW_BorbonA_LibroLaTeX.pdf)
 
+[🔙 Inicio de la unidad](../readme.md)

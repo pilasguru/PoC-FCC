@@ -1,3 +1,3 @@
-# Recursos y práctica guiada
+# Redirección y Pipes
 
 [🔙 Inicio de la unidad](../readme.md)
